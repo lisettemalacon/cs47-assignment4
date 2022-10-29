@@ -20,7 +20,6 @@ const styles = StyleSheet.create({
         width: '57%',
         height: 35,
         flexDirection: 'row',
-        //justifyContent: 'center',
         alignItems: 'center'
     },
     authText: {
